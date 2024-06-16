@@ -1,0 +1,17 @@
+.car-card {
+    border: 1px solid #ddd;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .car-card img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .car-card a {
+    color: blue;
+    text-decoration: none;
+  }
+  

@@ -1,0 +1,9 @@
+.car-detail {
+    padding: 1rem;
+  }
+  
+  .car-detail img {
+    max-width: 100%;
+    height: auto;
+  }
+  
